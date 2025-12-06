@@ -1,0 +1,4 @@
+- [ ] Add navbar HTML with logo, website name, and navigation links
+- [ ] Update CSS for navbar styling
+- [ ] Create additional pages (about.html, contact.html) for links
+- [ ] Test navbar functionality
